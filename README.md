@@ -1,2 +1,0 @@
-# NotesStorage
-CollegeNotes
